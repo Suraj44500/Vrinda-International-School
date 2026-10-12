@@ -1,0 +1,6 @@
+{
+  "name": "Vrinda International School - Faridabad",
+  "description": "Official portal for Vrinda International School, Faridabad (CBSE Affiliation No. 531419). Admissions Open 2026-27, academic excellence, campus facilities, and interactive virtual tour.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
